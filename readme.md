@@ -1,13 +1,13 @@
 # A LinkStack Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: Dark
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
+*	Theme Date: 2024-02-24
+*	Theme Author: abdul3lah
+*	Theme Author URI: https://github.com/abdul3lah
 *	Theme License: GPLv3
-*	Source code: https://github.com/YourGitHubName/ThemeName
+*	Source code: https://github.com/abdul3lah/Dark
 
 
 ### Used assets:
