@@ -1,4 +1,4 @@
-# A LinkStack Theme
+# Dark LinkStack Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Dark
