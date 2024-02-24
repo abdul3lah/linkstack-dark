@@ -7,7 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: abdul3lah
 *	Theme Author URI: https://github.com/abdul3lah
 *	Theme License: GPLv3
-*	Source code: https://github.com/abdul3lah/Dark
+*	Source code: https://github.com/abdul3lah/linkstack-dark
 
 
 ### Used assets:
