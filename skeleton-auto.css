@@ -76,8 +76,7 @@
         font-size: 18px;
         line-height: 24px;
         font-weight: 400;
-        background: #292929;
-        background: radial-gradient(circle, #292929 28%, #1b1b1b 100%);
+        background: #F1F1F1;
         font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: #FFFFFF; }
     }
@@ -127,7 +126,7 @@
     .social-icon{color:#fff;}
     }
     @media (prefers-color-scheme: light) {
-      .social-icon{color:#fff;}
+      .social-icon{color:#222;}
     }  
 
   /* Code
@@ -216,7 +215,7 @@
     /* Firefox */
     * {
       scrollbar-width: thin;
-      scrollbar-color: #171a1d #31363b;
+      scrollbar-color: #323232 #dbdbdb;
     }
   
     /* Chrome, Edge, and Safari */
@@ -225,11 +224,11 @@
     }
   
     *::-webkit-scrollbar-track {
-      background: #31363b;
+      background: #dbdbdb;
     }
   
     *::-webkit-scrollbar-thumb {
-      background-color: #171a1d;
+      background-color: #323232;
       border-radius: 30px;
       border: 3px none #ffffff;
     }
@@ -262,6 +261,6 @@
 }
 @media (prefers-color-scheme: light) {
   .credit-txt-clr{
-      color: #FFF !important;
+      color: #100a26 !important;
   }
 }
